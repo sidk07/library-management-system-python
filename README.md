@@ -14,7 +14,9 @@ Python project to store books information.
 ## Setup
 - Code Editor (IDE)
 - Python 3.10
-
+- 
+#### Run Project
+Download Project on your PC and run **app.py** module.
 
 
 *******************************************************************************************************************************************
