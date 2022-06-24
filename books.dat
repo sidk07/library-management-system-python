@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "fdr",
+        "description": "fgh",
+        "isbn": "1223",
+        "page_count": 25,
+        "issued": true,
+        "author": "asd",
+        "year": 2015
+    },
+    {
+        "id": "2",
+        "name": "asd",
+        "description": "asd",
+        "isbn": "254",
+        "page_count": 550,
+        "issued": true,
+        "author": "dso",
+        "year": 2015
+    }
+]
